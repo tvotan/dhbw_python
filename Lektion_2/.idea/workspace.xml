@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="301d382e-5bba-4955-819c-6c6b98d9de6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c6e3bbed-a696-4d59-af64-152108dda76a" />
+  <component name="ProjectId" id="1WnZwVCf1BfRL2nKd6r0l6LuGdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager" selected="Python.3.10_Sets">
+    <configuration name="3.10_Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lektion_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lektion_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lektion_3/3.10_Sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.6_Mehrfachvererbung" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lektion_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lektion_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lektion_3/3.6_Mehrfachvererbung.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.7_Listen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lektion_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lektion_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lektion_3/3.7_Listen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.8_Listen-Operatoren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lektion_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lektion_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lektion_3/3.8_Listen-Operatoren.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.9_Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lektion_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lektion_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Lektion_3/3.9_Tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3.10_Sets" />
+        <item itemvalue="Python.3.9_Tuples" />
+        <item itemvalue="Python.3.8_Listen-Operatoren" />
+        <item itemvalue="Python.3.7_Listen" />
+        <item itemvalue="Python.3.6_Mehrfachvererbung" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="301d382e-5bba-4955-819c-6c6b98d9de6e" name="Default Changelist" comment="" />
+      <created>1579787557453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579787557453</updated>
+      <workItem from="1579787559588" duration="23640000" />
+      <workItem from="1580112606109" duration="17336000" />
+      <workItem from="1580304393211" duration="467000" />
+      <workItem from="1580310090547" duration="5967000" />
+      <workItem from="1580469870935" duration="6854000" />
+      <workItem from="1580498966853" duration="28000" />
+      <workItem from="1580756012429" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom" timestamp="1580398303478">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.23.1920.1007@1440.23.1920.1007" timestamp="1580243150473" />
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.23.1920.1057@0.23.1440.827" timestamp="1580065931750" />
+    <state width="1638" height="185" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1580398303478" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center" timestamp="1580398303477">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.center/0.23.1440.827/1440.23.1920.1007@1440.23.1920.1007" timestamp="1580243150472" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.23.1440.827/1440.23.1920.1057@0.23.1440.827" timestamp="1580065931749" />
+    <state width="1638" height="185" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1580398303477" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left" timestamp="1580398303477">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.left/0.23.1440.827/1440.23.1920.1007@1440.23.1920.1007" timestamp="1580243150472" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.23.1440.827/1440.23.1920.1057@0.23.1440.827" timestamp="1580065931748" />
+    <state width="1638" height="185" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1580398303477" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right" timestamp="1580398303478">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.right/0.23.1440.827/1440.23.1920.1007@1440.23.1920.1007" timestamp="1580243150473" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.23.1440.827/1440.23.1920.1057@0.23.1440.827" timestamp="1580065931749" />
+    <state width="1638" height="185" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1580398303478" />
+    <state x="320" y="78" key="SettingsEditor" timestamp="1580325843083">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="320" y="78" key="SettingsEditor/0.23.1440.828/1440.23.1920.1057@0.23.1440.828" timestamp="1580325843083" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lektion_2$3_1_Klassen.coverage" NAME="3.1_Klassen Coverage Results" MODIFIED="1580058477455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_6_Mehrfachvererbung.coverage" NAME="3.6_Mehrfachvererbung Coverage Results" MODIFIED="1580125169663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_10_Sets.coverage" NAME="3.10_Sets Coverage Results" MODIFIED="1580325924881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$2_8_Funktionen.coverage" NAME="2.8_Funktionen Coverage Results" MODIFIED="1580051712919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lektion_2$1_Schleifen.coverage" NAME="1_Schleifen Coverage Results" MODIFIED="1579874556924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_8_Listen_Operatoren.coverage" NAME="3.8_Listen-Operatoren Coverage Results" MODIFIED="1580139043174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_9_Tuples.coverage" NAME="3.9_Tuples Coverage Results" MODIFIED="1580140393004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$2_9_Rekursion_mit_return.coverage" NAME="2.10_Wiedergabe_mit_return Coverage Results" MODIFIED="1580056445554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_5_Vererbung.coverage" NAME="3.5_Vererbung Coverage Results" MODIFIED="1580124269677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+    <SUITE FILE_PATH="coverage/Lektion_2$3_7_Listen.coverage" NAME="3.7_Listen Coverage Results" MODIFIED="1580137153303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Lektion_3" />
+  </component>
+</project>

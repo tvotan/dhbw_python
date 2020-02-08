@@ -144,5 +144,5 @@ print("Umrechnung der Temperaturen von Celsius in Fahrenheit")
 Celsius = input("Bitte geben Sie eine Temperatur in Celsius ein: ")
 Celsius = float(Celsius)
 Fahrenheit = 9/5 * Celsius + 32 # wird von links nach rechts ausgeführt; rechte Seite wird ausgeführt und der linken Seite (Variable) zugeordnet -> nicht dasselbe wie das mathematische Gleichheitszeichen
-print("Sie haben {0} Grad Celsius eingegeben.".format(Celsius)) # %f dient als Platzhalter für die anstehende Variablenzuweisung (Dezimalzahlen)
-print("Diese Temperatur entspricht {0} Grad Fahrenheit.".format(Fahrenheit))
+print("Sie haben %f Grad Celsius eingegeben." % Celsius) # %f dient als Platzhalter für die anstehende Variablenzuweisung (Dezimalzahlen)
+print("Diese Temperatur entspricht %f Grad Fahrenheit." % Fahrenheit)
